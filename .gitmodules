@@ -1,0 +1,3 @@
+[submodule "api-mito-students"]
+	path = api-mito-students
+	url = https://github.com/sebashh26/mito-students
